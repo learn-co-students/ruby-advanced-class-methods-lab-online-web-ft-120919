@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff8a8cd0-c6cc-4539-8bbe-a7c8d25330d9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VASW8gciVZOC8ncSEPs6WP10nj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff8a8cd0-c6cc-4539-8bbe-a7c8d25330d9" name="Default Changelist" comment="" />
+      <created>1576694435075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576694435075</updated>
+      <workItem from="1576694438825" duration="10043000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="140" y="267" key="SettingsEditor" timestamp="1576706395354">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="140" y="267" key="SettingsEditor/0.0.1920.1040/1920.13.1920.1040@0.0.1920.1040" timestamp="1576706395354" />
+    <state x="759" y="71" width="1125" height="1015" key="dock-window-1" timestamp="1576699966632">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="759" y="71" width="1125" height="1015" key="dock-window-1/0.0.1920.1040/1920.13.1920.1040@0.0.1920.1040" timestamp="1576699966632" />
+    <state x="2353" y="13" width="1524" height="1023" key="dock-window-2" timestamp="1576702095105">
+      <screen x="1920" y="13" width="1920" height="1040" />
+    </state>
+    <state x="2353" y="13" width="1524" height="1023" key="dock-window-2/0.0.1920.1040/1920.13.1920.1040@0.0.1920.1040" timestamp="1576702095105" />
+  </component>
+</project>
