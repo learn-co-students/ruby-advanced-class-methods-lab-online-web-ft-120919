@@ -50,8 +50,15 @@ class Song
       @@all.sort_by {|song| song.name}
     end
 
-    def self.new_from_filename(filename)
+    def new_from_filename(filename)
+      song_array = filename.split(/\-+|\./)
+      self.new_by_name(song_array[1])
+    end
 
+    def self.create_from_filename(filename)
+      # "Taylor Swift - Blank Space.mp3"
+      song_array = filename.split(/\-+|\./)
+      self.create_by_name(song_array[1])
     end
 
 end
