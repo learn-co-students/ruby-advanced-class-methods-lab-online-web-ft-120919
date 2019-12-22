@@ -92,11 +92,10 @@ song2
 song3 = Song.create_by_name("Banjo-Song")
 song3.artist_name = "Redneck Dude"
 Song.all.include?(song3)
-#=> true
+
 
 Song.find_by_name("Banjo-Song")
 
-# song4 = Song.find_or_create_by_name("Sugar Zaza")
 song5 = Song.find_or_create_by_name("Banjo-Song")
 Song.all
 
@@ -107,8 +106,8 @@ Song.alphabetical
 
 song8 = Song.new_from_filename("Taylor Swift - Blank Space.mp3")
 song8.name #=> "Blank Space"
-song8.artist_name #=> "Taylor Swift"
+song8.artist_name
 
 song9 = Song.create_from_filename("Nancy Ajram - Ani Alyek.mp3")
 song9.name #=> "Anu Alyek"
-song9.artist_name #=> "Nancy Ajram"
+song9.artist_name 
